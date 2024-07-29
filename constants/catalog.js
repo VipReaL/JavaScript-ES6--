@@ -1,0 +1,104 @@
+const CATALOG = [
+    {
+        "id": "el1",
+        "name": "FENDER SQUIER BULLET STRAT HT HSS BLK",
+        "img": "https://i.ibb.co/QJfqs4K/1.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el2",
+        "name": "FENDER SQUIER AFFINITY",
+        "img": "https://i.ibb.co/pKrG5ZJ/2.jpg",
+        "price": 23900
+    },
+    {
+        "id": "el3",
+        "name": "IBANEZ GIO GRG121DX-BKF BLACK FLAT",
+        "img": "https://i.ibb.co/NnvcYhR/3.jpg",
+        "price": 21600
+    },
+    {
+        "id": "el4",
+        "name": "EPIPHONE LES PAUL STUDIO LT EBONY",
+        "img": "https://i.ibb.co/4Tg91WL/4.jpg",
+        "price": 19900
+    },
+    {
+        "id": "el5",
+        "name": "FENDER SQUIER BULLET TREM HSS AWT",
+        "img": "https://i.ibb.co/MC7sy1F/5.jpg",
+        "price": 14500
+    },
+    {
+        "id": "el6",
+        "name": "FENDER SQUIER BULLET MUSTANG HH BLK",
+        "img": "https://i.ibb.co/qNBWPb0/6.jpg",
+        "price": 14600
+    },
+    {
+        "id": "el7",
+        "name": "FENDER SQUIER BULLET STRAT HT AWT",
+        "img": "https://i.ibb.co/WH1h2wV/7.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el8",
+        "name": "JACKSON JS22-7 DINKY SATIN BLACK",
+        "img": "https://i.ibb.co/2cBg9g9/8.jpg",
+        "price": 28700
+    },
+    {
+        "id": "el9",
+        "name": "JACKSON JS11 DINKY OLYMPIC WHITE",
+        "img": "https://i.ibb.co/wKxFRM8/9.jpg",
+        "price": 18100
+    },
+    {
+        "id": "el10",
+        "name": "YAMAHA PACIFICA 012 WH",
+        "img": "https://i.ibb.co/30qJcZX/10.jpg",
+        "price": 15990
+    },
+    {
+        id: 'el11',
+        name: 'Stairtone A-38C BK',
+        img: 'https://ltm-music.ru/upload/images/stairtone_a-38c_bk.jpeg',
+        price: 3640,
+    },
+    {
+        id: 'el12',
+        name: 'Stairtone A-38C BL',
+        img: 'https://ltm-music.ru/upload/images/stairtone_a-38c_bl.jpeg',
+        price: 3640,
+    },
+    {
+        id: 'el13',
+        name: 'Schecter CORSAIR TOM',
+        img: 'https://ltm-music.ru/upload/images/corsair_blk.png',
+        price: 90710,
+    },
+    {
+        id: 'el14',
+        name: 'Aria Pro II STG-003',
+        img: 'https://ltm-music.ru/upload/images/stg003_ca_2016.jpg',
+        price: 15380,
+    },
+    {
+        id: 'el15',
+        name: 'Schecter SGR C-1 FR',
+        img: 'https://ltm-music.ru/upload/images/sgr_c-1_fr_mred_tilt_highres.jpg',
+        price: 38450,
+    },
+    {
+        id: 'el16',
+        name: 'Schecter C-7 PRO',
+        img: 'https://ltm-music.ru/upload/images/schecter_c-7_pro_aqb_tilt.png',
+        price: 93705,
+    },
+    {
+        id: 'el17',
+        name: 'Schecter S-II PLATINUM',
+        img: 'https://ltm-music.ru/upload/images/platinum-s-ii-silver-tilt.png',
+        price: 89960,
+    },
+]
