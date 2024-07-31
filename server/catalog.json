@@ -1,4 +1,4 @@
-const CATALOG = [
+[
     {
         "id": "el1",
         "name": "FENDER SQUIER BULLET STRAT HT HSS BLK",
@@ -60,45 +60,45 @@ const CATALOG = [
         "price": 15990
     },
     {
-        id: 'el11',
-        name: 'Stairtone A-38C BK',
-        img: 'https://ltm-music.ru/upload/images/stairtone_a-38c_bk.jpeg',
-        price: 3640,
+        "id": "el11",
+        "name": "Stairtone A-38C BK",
+        "img": "https://ltm-music.ru/upload/images/stairtone_a-38c_bk.jpeg",
+        "price": 3640
     },
     {
-        id: 'el12',
-        name: 'Stairtone A-38C BL',
-        img: 'https://ltm-music.ru/upload/images/stairtone_a-38c_bl.jpeg',
-        price: 3640,
+        "id": "el12",
+        "name": "Stairtone A-38C BL",
+        "img": "https://ltm-music.ru/upload/images/stairtone_a-38c_bl.jpeg",
+        "price": 3640
     },
     {
-        id: 'el13',
-        name: 'Schecter CORSAIR TOM',
-        img: 'https://ltm-music.ru/upload/images/corsair_blk.png',
-        price: 90710,
+        "id": "el13",
+        "name": "Schecter CORSAIR TOM",
+        "img": "https://ltm-music.ru/upload/images/corsair_blk.png",
+        "price": 90710
     },
     {
-        id: 'el14',
-        name: 'Aria Pro II STG-003',
-        img: 'https://ltm-music.ru/upload/images/stg003_ca_2016.jpg',
-        price: 15380,
+        "id": "el14",
+        "name": "Aria Pro II STG-003",
+        "img": "https://ltm-music.ru/upload/images/stg003_ca_2016.jpg",
+        "price": 15380
     },
     {
-        id: 'el15',
-        name: 'Schecter SGR C-1 FR',
-        img: 'https://ltm-music.ru/upload/images/sgr_c-1_fr_mred_tilt_highres.jpg',
-        price: 38450,
+        "id": "el15",
+        "name": "Schecter SGR C-1 FR",
+        "img": "https://ltm-music.ru/upload/images/sgr_c-1_fr_mred_tilt_highres.jpg",
+        "price": 38450
     },
     {
-        id: 'el16',
-        name: 'Schecter C-7 PRO',
-        img: 'https://ltm-music.ru/upload/images/schecter_c-7_pro_aqb_tilt.png',
-        price: 93705,
+        "id": "el16",
+        "name": "Schecter C-7 PRO",
+        "img": "https://ltm-music.ru/upload/images/schecter_c-7_pro_aqb_tilt.png",
+        "price": 93705
     },
     {
-        id: 'el17',
-        name: 'Schecter S-II PLATINUM',
-        img: 'https://ltm-music.ru/upload/images/platinum-s-ii-silver-tilt.png',
-        price: 89960,
-    },
+        "id": "el17",
+        "name": "Schecter S-II PLATINUM",
+        "img": "https://ltm-music.ru/upload/images/platinum-s-ii-silver-tilt.png",
+        "price": 89960
+    }
 ]
