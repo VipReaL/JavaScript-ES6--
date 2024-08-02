@@ -19,6 +19,7 @@ fetch('server/catalog.json')
         spinnerPage.handleClear();
         render();
     })
-    .catch(error => {
-        console.log(error);
+    .catch(() => {
+        spinnerPage.handleClear();
+        errorPage.render();
     })
